@@ -1,0 +1,14 @@
+# Manual Testing Notes
+
+Personal study notes for manual QA theory — structured for junior QA interview preparation.
+
+## Contents
+
+| File | Topic |
+|---|---|
+| [01-sdlc-stlc-testing-basics.md](01-sdlc-stlc-testing-basics.md) | SDLC, STLC, QA vs QC, testing types, Severity vs Priority |
+
+## Goal
+
+Covering the manual testing theory expected at junior QA interviews in Sofia, Bulgaria.
+Each topic ends with interview Q&A for active recall.
